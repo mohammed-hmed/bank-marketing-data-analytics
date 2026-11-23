@@ -1,0 +1,5 @@
+Modell,CV ROC-AUC (Mittel),CV ROC-AUC (Std.),Test ROC-AUC,Accuracy,Precision,Recall,F1
+Baseline,0.5,0.0,0.5,0.8874,0.0,0.0,0.0
+Entscheidungsbaum,0.7822,0.009,0.8013,0.9018,0.6343,0.3028,0.4099
+Random Forest,0.7966,0.0127,0.8123,0.9018,0.7059,0.2198,0.3353
+Logistische Regression,0.7884,0.011,0.8011,0.902,0.7023,0.2263,0.3423
