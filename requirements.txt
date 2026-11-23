@@ -1,0 +1,19 @@
+# Aufbau wie requirements.txt aus den Präsenz-Notebooks (D. Ambach).
+# Versionen fest eingetragen, damit die Ergebnisse genau gleich bleiben
+# (getestet mit Anaconda, Python 3.12, auf macOS).
+
+# Grundlegende Bibliotheken für Data Science
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.13.1
+
+# Visualisierung
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# Machine Learning
+scikit-learn==1.5.1
+
+# Jupyter-Umgebung
+jupyterlab>=3.0.0
+ipykernel>=6.0.0
